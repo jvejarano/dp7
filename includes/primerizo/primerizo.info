@@ -1,0 +1,4 @@
+name = Primerizo 
+description = Este es el Modulo Primerizo
+core = 7.x
+package = Modulos Personalizados

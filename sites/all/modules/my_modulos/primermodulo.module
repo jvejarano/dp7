@@ -1,0 +1,4 @@
+<?php
+function primermodulo_init() {
+	drupal_set_message ("holassss ke ase");
+}

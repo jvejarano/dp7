@@ -1,0 +1,8 @@
+/* $Id: ielt8.css,v 1.1 2010/12/15 06:17:39 geerlingguy Exp $ */
+
+/* Styles for Internet Explorer version 7 and below. */
+
+#main-menu {
+  padding-top: 15px;
+  margin-left: 0;
+}

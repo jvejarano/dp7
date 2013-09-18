@@ -1,0 +1,24 @@
+<?php
+/**
+ * @file
+ * Archivo para empezar a programar con Drupal
+ */
+
+/**
+ * Implementa hook_menu().
+ */
+function saludar_menu() {
+  $items['saludar/hola-mundo'] = array(
+    'title' => 'Saludar',
+    'page callback' => 'saludar_hola_mundo',
+    'access callback' => TRUE,
+  );
+  return $items;
+}
+
+/**
+ * Callback que implementa la página: saludar/hola-mundo.
+ */
+function saludar_hola_mundo() {
+  return "Hola Mundo";
+}

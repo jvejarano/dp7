@@ -1,0 +1,20 @@
+<?php
+function primerizo_menu()
+{
+  $items = array();
+  $items('estaruta') = array(
+  'title' =>  'Titulo',
+  'description'  =>  'esta es la descripcion del mmodulo primerizo',
+  'access callback'  =>  TRUE,
+  'page callback'  =>  'mifuncion',
+  );
+
+  return $items;
+
+}
+
+function mifuncion()
+
+{
+	return '<h1>Este es el titulo</h1>';
+}

@@ -1,0 +1,5 @@
+name = Menu Propio
+description = Aprendiendo sobre el manejo del menu
+package = Modulos Personalizados
+core = 7.x
+version = 1.x

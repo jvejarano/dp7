@@ -1,0 +1,5 @@
+name = Primermodulo
+core = 7.x
+description = Este es mi modulo 
+version = 1.xxx
+package = Modulos Personalizados

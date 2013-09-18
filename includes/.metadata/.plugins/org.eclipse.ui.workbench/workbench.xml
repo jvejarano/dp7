@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="48" version="2.0">
+<workbenchAdvisor/>
+<window height="724" maximized="true" minimized="true" width="1024" x="25" y="4">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="129" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.php.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1378171121068" focus="true" label="Workspace - PHP">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.php.editor" name="primerizo.info" partName="primerizo.info" path="C:/xampp/htdocs/dp7/includes/primerizo/primerizo.info" title="primerizo.info" tooltip="primerizo/primerizo.info" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/primerizo/primerizo.info"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="104" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor" name="formulariobd.info" partName="formulariobd.info" path="C:/xampp/htdocs/dp7/includes/formulariobd/formulariobd.info" title="formulariobd.info" tooltip="formulariobd/formulariobd.info" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/formulariobd/formulariobd.info"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor" name="formulariobd.module" partName="formulariobd.module" path="C:/xampp/htdocs/dp7/includes/formulariobd/formulariobd.module" title="formulariobd.module" tooltip="formulariobd/formulariobd.module" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/formulariobd/formulariobd.module"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="988" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor" name="formulario.info" partName="formulario.info" title="formulario.info" tooltip="C:\xampp\htdocs\hato\sites\all\modules\personalizados\formulario\formulario.info" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/xampp/htdocs/hato/sites/all/modules/personalizados/formulario/formulario.info"/>
+<editorState selectionHorizontalPixel="0" selectionLength="104" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor" name="formulario.module" partName="formulario.module" title="formulario.module" tooltip="C:\xampp\htdocs\hato\sites\all\modules\personalizados\formulario\formulario.module" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/xampp/htdocs/hato/sites/all/modules/personalizados/formulario/formulario.module"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="264" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.php.editor" name="1ermodulo.info" partName="1ermodulo.info" path="C:/xampp/htdocs/dp7/includes/1ermodulo/1ermodulo.info" title="1ermodulo.info" tooltip="1ermodulo/1ermodulo.info" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1ermodulo/1ermodulo.info"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="124" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.php.editor" name="1ermodulo.module" partName="1ermodulo.module" path="C:/xampp/htdocs/dp7/includes/1ermodulo/1ermodulo.module" title="1ermodulo.module" tooltip="1ermodulo/1ermodulo.module" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/1ermodulo/1ermodulo.module"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="266" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.dltk.ui.TypeHierarchy" partName="Type Hierarchy">
+<viewState isWindowWorkingSet="false" mv_vertical_scroll="0" org.eclipse.dltk.ui.packages.linktypehierarchytoeditor="0" orientation="0" ratio="350" showinherited="false" sortbydefiningtype="false" vertical_scroll="0" view="2" workingSetName=""/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.resourceField="94" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.php.ui.explorer" partName="PHP Explorer">
+<viewState group_libraries="1" isWindowWorkingSet="false" layout="1" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.php.ui.explorer.EmptyInnerPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.PHPHTMLFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.NonScriptElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.NonScriptProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.RSEProjectFilter" isEnabled="true"/>
+<child filterId="org.eclipse.php.ui.explorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.UseStatementFilter" isEnabled="true"/>
+<child filterId="org.eclipse.php.ui.explorer.ContainMembersFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.SMFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.DotFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.php.ui.explorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.php.ui.explorer.ClosedProjectsFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.PHPDebugOutput" partName="Debug Output">
+<viewState/>
+</view>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List"/>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="304" org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.priorityField="20" org.eclipse.ui.ide.resourceField="94"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.php.editor" activePerspective="org.eclipse.php.perspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.php.internal.ui.PHPPerspectiveFactory" id="org.eclipse.php.perspective" label="PHP"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.php.ui.PHPActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.php.ui.text.php.actionSet.presentation"/>
+<show_view_action id="org.eclipse.php.ui.explorer"/>
+<show_view_action id="org.eclipse.dltk.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.php.ui.functions"/>
+<show_view_action id="org.eclipse.php.ui.projectOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<new_wizard_action id="org.eclipse.php.ui.wizards.PHPProjectCreationWizard"/>
+<new_wizard_action id="org.eclipse.php.ui.wizards.PHPFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.php.ui.wizards.UntitledPHPDocumentWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.wst.css.ui.internal.wizard.NewCSSWizard"/>
+<new_wizard_action id="org.eclipse.wst.html.ui.internal.wizard.NewHTMLWizard"/>
+<new_wizard_action id="org.eclipse.wst.xml.ui.internal.wizards.NewXMLWizard"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.php.perspective"/>
+<perspective_action id="org.eclipse.php.debug.ui.PHPDebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.php.ui.explorer"/>
+<view id="org.eclipse.dltk.ui.TypeHierarchy"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.PHPDebugOutput"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.php.ui.explorer" appearance="2" expanded="2">
+<page content="org.eclipse.php.ui.explorer" label="PHP Explorer"/>
+<page content="org.eclipse.dltk.ui.TypeHierarchy" label="Type Hierarchy"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@7a00b247" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.12676056" ratioLeft="171" ratioRight="1178" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottom" ratio="0.74958813" ratioLeft="455" ratioRight="152" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.debug.ui.PHPDebugOutput" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.PHPDebugOutput" label="Debug Output"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.75" ratioLeft="585" ratioRight="195" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
+<page content="org.eclipse.php.ui.projectOutline" label="LabelNotFound"/>
+<page content="org.eclipse.php.ui.functions" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/primerizo.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/formulariobd/formulariobd.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/formulariobd/formulariobd.info"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/primerizo.info"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/primerizo.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.info"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.features.user_permission.inc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.features.menu_custom.inc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/formulariobd/formulariobd.module"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.php.editor" uri="file:/C:/xampp/htdocs/hato/sites/all/modules/personalizados/formulario/formulario.info"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.php.editor" uri="file:/C:/xampp/htdocs/hato/sites/all/modules/personalizados/formulario/formulario.module"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.php.editor" uri="file:/C:/xampp/htdocs/hato/sites/all/modules/personalizados/formulario/formulario.info"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/1ermodulo/1ermodulo.info"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/1ermodulo/1ermodulo.module"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.php.editor" uri="file:/C:/xampp/htdocs/hato/sites/all/modules/personalizados/formulario/formulario.info"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.features.menu_custom.inc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.features.user_permission.inc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.info"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.module"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/formulariobd/formulariobd.info"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" path="/formulariobd/formulariobd.module"/>
+</editors>
+<item historyLabel="formulariobd.module" index="1">
+<position info="not_deleted" x="234" y="0"/>
+</item>
+<item historyLabel="primerizo.module" index="0">
+<position info="not_deleted" x="99" y="0"/>
+</item>
+<item historyLabel="formulariobd.module" index="1">
+<position info="not_deleted" x="234" y="0"/>
+</item>
+<item historyLabel="formulariobd.info" index="2">
+<position info="not_deleted" x="8" y="0"/>
+</item>
+<item historyLabel="primerizo.info" index="3">
+<position info="not_deleted" x="104" y="0"/>
+</item>
+<item historyLabel="primerizo.module" index="4">
+<position info="not_deleted" x="0" y="353"/>
+</item>
+<item historyLabel="primerizo.info" index="3">
+<position info="not_deleted" x="104" y="0"/>
+</item>
+<item historyLabel="primerizo.module" index="4">
+<position info="not_deleted" x="0" y="353"/>
+</item>
+<item historyLabel="primerizo.info" index="3">
+<position info="not_deleted" x="104" y="0"/>
+</item>
+<item historyLabel="primerizo.module" index="4">
+<position info="not_deleted" x="0" y="353"/>
+</item>
+<item historyLabel="primerizo.info" index="3">
+<position info="not_deleted" x="104" y="0"/>
+</item>
+<item historyLabel="formulariobd.module" index="1">
+<position info="not_deleted" x="756" y="0"/>
+</item>
+<item historyLabel="formulariobd.module" index="1">
+<position info="not_deleted" x="756" y="0"/>
+</item>
+<item historyLabel="primerizo.info" index="3">
+<position info="not_deleted" x="104" y="0"/>
+</item>
+<item historyLabel="formulariobd.info" index="2">
+<position info="not_deleted" x="8" y="0"/>
+</item>
+<item historyLabel="paquete_de_imagenes.module" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="paquete_de_imagenes.info" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="paquete_de_imagenes.features.user_permission.inc" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="paquete_de_imagenes.features.menu_custom.inc" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="formulariobd.module" index="9">
+<position info="not_deleted" x="988" y="0"/>
+</item>
+<item historyLabel="formulario.info" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="formulario.module" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="formulario.info" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="formulario.module" index="11">
+<position/>
+</item>
+<item historyLabel="formulario.info" index="12">
+<position info="not_deleted" x="104" y="0"/>
+</item>
+<item historyLabel="formulario.module" index="11">
+<position info="not_deleted" x="81" y="0"/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position/>
+</item>
+<item historyLabel="1ermodulo.module" index="14">
+<position/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position/>
+</item>
+<item historyLabel="formulario.info" index="15">
+<position info="not_deleted" x="0" y="104"/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position/>
+</item>
+<item historyLabel="1ermodulo.module" index="14">
+<position/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position info="not_deleted" x="42" y="0"/>
+</item>
+<item historyLabel="formulario.module" index="11">
+<position info="not_deleted" x="264" y="0"/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position info="not_deleted" x="42" y="0"/>
+</item>
+<item historyLabel="paquete_de_imagenes.features.menu_custom.inc" index="16">
+<position info="not_deleted" x="290" y="0"/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position info="not_deleted" x="124" y="0"/>
+</item>
+<item historyLabel="paquete_de_imagenes.features.user_permission.inc" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position info="not_deleted" x="124" y="0"/>
+</item>
+<item historyLabel="paquete_de_imagenes.info" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position info="not_deleted" x="124" y="0"/>
+</item>
+<item historyLabel="paquete_de_imagenes.module" index="19">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position info="not_deleted" x="124" y="0"/>
+</item>
+<item historyLabel="formulariobd.info" index="20">
+<position info="not_deleted" x="8" y="0"/>
+</item>
+<item historyLabel="formulariobd.module" index="21">
+<position info="not_deleted" x="988" y="0"/>
+</item>
+<item historyLabel="1ermodulo.module" index="14">
+<position info="not_deleted" x="171" y="0"/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position info="not_deleted" x="124" y="0"/>
+</item>
+<item historyLabel="formulario.module" index="11">
+<position info="not_deleted" x="264" y="0"/>
+</item>
+<item historyLabel="1ermodulo.info" index="13">
+<position info="not_deleted" x="124" y="0"/>
+</item>
+<item active="true" historyLabel="1ermodulo.module" index="14">
+<position info="not_deleted" x="171" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="1ermodulo.module" tooltip="1ermodulo/1ermodulo.module">
+<persistable path="/1ermodulo/1ermodulo.module"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="1ermodulo.info" tooltip="1ermodulo/1ermodulo.info">
+<persistable path="/1ermodulo/1ermodulo.info"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.php.editor" name="formulario.module" tooltip="C:\xampp\htdocs\hato\sites\all\modules\personalizados\formulario\formulario.module">
+<persistable uri="file:/C:/xampp/htdocs/hato/sites/all/modules/personalizados/formulario/formulario.module"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.php.editor" name="formulario.info" tooltip="C:\xampp\htdocs\hato\sites\all\modules\personalizados\formulario\formulario.info">
+<persistable uri="file:/C:/xampp/htdocs/hato/sites/all/modules/personalizados/formulario/formulario.info"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="paquete_de_imagenes.features.menu_custom.inc" tooltip="primerizo/paquete_de_imagenes/paquete_de_imagenes.features.menu_custom.inc">
+<persistable path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.features.menu_custom.inc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="paquete_de_imagenes.features.user_permission.inc" tooltip="primerizo/paquete_de_imagenes/paquete_de_imagenes.features.user_permission.inc">
+<persistable path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.features.user_permission.inc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="paquete_de_imagenes.info" tooltip="primerizo/paquete_de_imagenes/paquete_de_imagenes.info">
+<persistable path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.info"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="paquete_de_imagenes.module" tooltip="primerizo/paquete_de_imagenes/paquete_de_imagenes.module">
+<persistable path="/primerizo/paquete_de_imagenes/paquete_de_imagenes.module"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="mymodulo.module" tooltip="mymodulo/mymodulo.module">
+<persistable path="/mymodulo/mymodulo.module"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="mymodulo.info" tooltip="mymodulo/mymodulo.info">
+<persistable path="/mymodulo/mymodulo.info"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="formulariobd.module" tooltip="formulariobd/formulariobd.module">
+<persistable path="/formulariobd/formulariobd.module"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="formulariobd.info" tooltip="formulariobd/formulariobd.info">
+<persistable path="/formulariobd/formulariobd.info"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="primerizo.info" tooltip="primerizo/primerizo.info">
+<persistable path="/primerizo/primerizo.info"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.php.editor" name="primerizo.module" tooltip="primerizo/primerizo.module">
+<persistable path="/primerizo/primerizo.module"/>
+</file>
+</mruList>
+</workbench>

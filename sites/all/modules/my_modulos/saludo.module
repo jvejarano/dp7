@@ -1,0 +1,9 @@
+function pagina_
+
+/**
+ * Implementation hook_theme().
+ */
+ function saludar_theme(){
+ $items = array();
+ $items['saludo'] = array('template' => 'hola');
+ }

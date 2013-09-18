@@ -1,0 +1,4 @@
+name = Formulariobd
+description = Formulario Base de Datos
+core = 7.x
+package = Modulos Personalizados

@@ -1,0 +1,12 @@
+name = paquete de imagenes
+description = este es un modulo hecho en features
+core = 7.x
+package = MyFeatures
+version = 7.x-1.0
+project = paquete_de_imagenes
+dependencies[] = features
+dependencies[] = image
+dependencies[] = menu
+features[features_api][] = api:2
+features[menu_custom][] = main-menu
+features[user_permission][] = administer image styles

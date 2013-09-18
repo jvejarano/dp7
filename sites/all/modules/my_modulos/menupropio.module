@@ -1,0 +1,29 @@
+<?php
+ 
+/**
+ * Implementation hook_menu().
+ */
+ function menupropio_menu() {
+ $items= array();
+ $items['hola-mundo']= array(
+ 'title' => 'holas',
+ 'page callback'=> 'pagina_saludo',
+ 'access callback' => TRUE
+ );
+ 
+ return $items;
+ }
+ 
+ function pagina_saludo(){
+ return theme('saludo');
+ }
+ 
+/**
+ * Implementation hook_theme().
+ */
+ function menupropio_theme(){
+ $items = array();
+ $items['saludo'] = array('template' => 'hola');
+ 
+ return $items;
+ }

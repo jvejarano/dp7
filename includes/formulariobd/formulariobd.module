@@ -1,0 +1,48 @@
+<?php
+function formulariobd_menu()
+{
+  $items = array();
+  $items('estaruta') = array(
+  'title' =>  'Formulario Base de datos',
+  'description'  =>  'formulario BD',
+  'access callback'  =>  TRUE,
+  'page callback'  =>  'formulariobd',
+  'page arguments' => array('formulario_formbd'),
+  );
+
+  return $items;
+
+}
+
+function formulariobd_formbd()
+{
+  /*cabecera de la tabla*/
+  $header = array (
+  'nombre' => 'Nombre',
+  'nivel' => 'Nivel Academico',
+  'areainteres' => 'Area de Interes'  
+  );
+  
+  $estudiantes = array(
+  array ('eid' => '1', 'nombre' => 'Alfonso', 'nivel' => 'medio', 'areainteres' => 'mecanica'),
+  array ('eid' => '2', 'nombre' => 'Alejandra', 'nivel' => 'alto', 'areainteres' => 'motor'),
+  array ('eid' => '3', 'nombre' => 'Diego', 'nivel' => 'alto', 'areainteres' => 'computadora'),
+  );
+  
+  $options = array();
+  
+  foreach ($estudiantes as $estudiantes)
+  {
+    $options[$estudiantes['eid']] = array(
+    'nombre' => $estudiantes['nombre'],
+    'nivel' => $estudiantes['nivel'],
+    'areainteres' => $estudiantes['areainteres']
+    );
+  }
+  $form['tablaselect'] = array(
+  '#type' => 'tableselect',
+  '#header' => $header,
+  '#optiones' => $options,
+  ); 
+	return $form;
+}

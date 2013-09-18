@@ -1,0 +1,5 @@
+name = 1er Modulo
+core = 7.x
+version = 1.x
+description = Este es mi primer modulo en drupal
+package = Modulos Personalizados
